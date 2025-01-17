@@ -10,7 +10,15 @@ Heute hab ich die Grundstruktur des Codes angefertigt und noch die Möglichkeit 
 
 ## 17.1.2025
 
-- [ ] Länge des Passwort auswählen könne
-- [ ] Funktion erweitern so das Grossbuchstaben sowie Zahlen generiert werden können im Passwort
+- [x] Länge des Passwort auswählen könne
+- [x] Funktion erweitern so das Grossbuchstaben sowie Zahlen generiert werden können im Passwort
 - [ ] Sonderzeichen sollen auch im Passwort ermittelt werden
 - [ ] WinForm soll zur einsatz kommen z.B ,man klickt ein Button der Passwort wird generiert
+
+Heute habe ich die Passwortstärke verbessert indem ich die Länge des Passworts, Grossbuchstaben und Zahlen hinzugefügt habe somit wird ein stärkerer und besserer Passwort generiert
+
+## 24.1
+
+- [ ] Sonderzeichen sollen auch im Passwort ermittelt werden
+- [ ] Funktion implentieren die, die Stärke des Passworts ermitteln
+- [ ] inForm soll zur einsatz kommen z.B ,man klickt ein Button der Passwort wird generiert
