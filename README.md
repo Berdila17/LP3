@@ -19,6 +19,11 @@ Heute habe ich die Passwortstärke verbessert indem ich die Länge des Passworts
 
 ## 24.1
 
-- [ ] Sonderzeichen sollen auch im Passwort ermittelt werden
-- [ ] Funktion implentieren die, die Stärke des Passworts ermitteln
+- [x] Sonderzeichen sollen auch im Passwort ermittelt werden
+- [x] Funktion implentieren die, die Stärke des Passworts ermitteln
 - [ ] inForm soll zur einsatz kommen z.B ,man klickt ein Button der Passwort wird generiert
+
+## fertiges Projekt
+Ich habe einen Programm angefertigt der Passwörter generiert, die relativ sicher sind, man kann die Stärke dazu noch auch ermittel
+![Screenshot 2025-01-24 111255](https://github.com/user-attachments/assets/193e67c8-6224-4d25-969a-51d2dc1dba7b)
+
